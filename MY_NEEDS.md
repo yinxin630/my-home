@@ -21,7 +21,19 @@ VR看房: <https://realsee.com/lianjia/ByOJrMWWgbXMlvV1/Qqk0a74Lqjmws9u6hqTa35jF
 
 考虑日后各种智能家电, 一定要多预留插座
 
-房顶摄像头, 空调, 晾衣杆机, 阳台洗衣机
+预留插座: 房顶摄像头, 空调, 晾衣杆机, 阳台洗衣机, 马桶盖, 扫地机器人, 空气净化器
+
+智能插座:
+![image](https://user-images.githubusercontent.com/6939365/115253341-de175180-a15e-11eb-94e5-e36a0ecfc4ca.png)
+
+智能开关:
+![image](https://user-images.githubusercontent.com/6939365/115253378-e8395000-a15e-11eb-83a3-4ccef32122bb.png)
+
+#### 大门锁
+
+智能门锁, 支持指纹、密码、蓝牙、NFC：
+![image](https://user-images.githubusercontent.com/6939365/115253829-5716a900-a15f-11eb-901a-e76d92c4d508.png)
+
 
 ## 玄关
 带座椅, 方便换鞋
@@ -34,14 +46,31 @@ VR看房: <https://realsee.com/lianjia/ByOJrMWWgbXMlvV1/Qqk0a74Lqjmws9u6hqTa35jF
 
 无主灯或者不是很复杂的主灯, 非直射的吊顶隐藏式灯, 一圈小灯
 
-aqara 吸顶灯: <https://www.aqara.com/cn/productDetail/d3_2>   
+aqara 吸顶灯:
+![image](https://user-images.githubusercontent.com/6939365/115254435-ede36580-a15f-11eb-9689-4f0c5b5cf280.png)
+
 
 灯槽, 小灯
 ![image](https://user-images.githubusercontent.com/6939365/115245345-698ce480-a157-11eb-847d-f5522f882fa2.png)
 
+地毯+简易桌子
+![image](https://user-images.githubusercontent.com/6939365/115255692-1881ee00-a161-11eb-9c36-1bd772b49960.png)
+
+能躺俩人的沙发:
+
+
+懒人躺椅:
+
+
 ### 阳台
 
-智能晾衣杆: <https://www.aqara.com/cn/productDetail/d7_3>   
+智能晾衣杆:
+![image](https://user-images.githubusercontent.com/6939365/115254327-d0160080-a15f-11eb-96bc-df5e389d120a.png)
+
+
+洗烘一体机:
+![image](https://user-images.githubusercontent.com/6939365/115254368-d99f6880-a15f-11eb-909d-8ff2764ef594.png)
+
 
 ## 厨房
 
@@ -63,7 +92,11 @@ aqara 吸顶灯: <https://www.aqara.com/cn/productDetail/d3_2>
 
 ### 次卧
 
-### 次卧2 (书房, 电脑房, 工作间)
+### 次卧2
+
+书桌、书架、电脑桌、简易单人床
+![image](https://user-images.githubusercontent.com/6939365/115254843-529ec000-a160-11eb-8923-028b2ef9f623.png)
+
 
 ## 卫生间
 
@@ -76,10 +109,11 @@ aqara 吸顶灯: <https://www.aqara.com/cn/productDetail/d3_2>
 恒温燃气热水器:
 ![image](https://user-images.githubusercontent.com/6939365/115251859-86c4b180-a15d-11eb-8ddc-8e3b5a0c0783.png)
 
+牙刷吹风机储物架:
+![image](https://user-images.githubusercontent.com/6939365/115256050-76163a80-a161-11eb-88c4-2facdf358388.png)
+
+
 ### 主卫
 
 智能马桶盖, 智米, 注意内圈尺寸
 ![image](https://user-images.githubusercontent.com/6939365/115252061-b5db2300-a15d-11eb-8e68-5986afd012c4.png)
-
-
-### 次卫
