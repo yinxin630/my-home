@@ -17,6 +17,12 @@ VR看房: <https://realsee.com/lianjia/ByOJrMWWgbXMlvV1/Qqk0a74Lqjmws9u6hqTa35jF
 地板种类和选购经验 <https://zhuanlan.zhihu.com/p/27610690>   
 哪些品牌的木地板比较靠谱？ <https://www.zhihu.com/question/265667322/answer/296827169>
 
+#### 开关
+
+考虑日后各种智能家电, 一定要多预留插座
+
+房顶摄像头, 空调, 晾衣杆机, 阳台洗衣机
+
 ## 玄关
 带座椅, 方便换鞋
 
@@ -33,6 +39,9 @@ aqara 吸顶灯: <https://www.aqara.com/cn/productDetail/d3_2>
 灯槽, 小灯
 ![image](https://user-images.githubusercontent.com/6939365/115245345-698ce480-a157-11eb-847d-f5522f882fa2.png)
 
+### 阳台
+
+智能晾衣杆: <https://www.aqara.com/cn/productDetail/d7_3>   
 
 ## 厨房
 
@@ -49,5 +58,6 @@ aqara 吸顶灯: <https://www.aqara.com/cn/productDetail/d3_2>
 ## 卫生间
 
 ### 主卫
+智能马桶盖, 智米, 注意内圈尺寸
 
 ### 次卫
