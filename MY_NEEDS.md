@@ -50,10 +50,10 @@ aqara 吸顶灯:
 ![image](https://user-images.githubusercontent.com/6939365/115254435-ede36580-a15f-11eb-9689-4f0c5b5cf280.png)
 
 
-灯槽, 小灯
+灯槽, 小灯:   
 ![image](https://user-images.githubusercontent.com/6939365/115245345-698ce480-a157-11eb-847d-f5522f882fa2.png)
 
-地毯+简易桌子
+地毯+简易桌子:   
 ![image](https://user-images.githubusercontent.com/6939365/115255692-1881ee00-a161-11eb-9c36-1bd772b49960.png)
 
 能躺俩人的沙发:
@@ -67,11 +67,10 @@ aqara 吸顶灯:
 ### 阳台
 
 智能晾衣杆:
-![image](https://user-images.githubusercontent.com/6939365/115254327-d0160080-a15f-11eb-96bc-df5e389d120a.png)
-
+![image](https://user-images.githubusercontent.com/6939365/115254368-d99f6880-a15f-11eb-909d-8ff2764ef594.png)
 
 洗烘一体机:
-![image](https://user-images.githubusercontent.com/6939365/115254368-d99f6880-a15f-11eb-909d-8ff2764ef594.png)
+![image](https://user-images.githubusercontent.com/6939365/115254327-d0160080-a15f-11eb-96bc-df5e389d120a.png)
 
 
 ## 厨房
@@ -87,7 +86,7 @@ aqara 吸顶灯:
 
 ## 卧室
 
-带靠背的床:
+带靠背的床:   
 ![image](https://user-images.githubusercontent.com/6939365/115252644-3c900000-a15e-11eb-8118-75c1b859cc5c.png)
 
 ### 主卧
@@ -97,7 +96,8 @@ aqara 吸顶灯:
 ### 次卧2
 
 书桌、书架、电脑桌、简易单人床
-![image](https://user-images.githubusercontent.com/6939365/115254843-529ec000-a160-11eb-8923-028b2ef9f623.png)
+![47C585DA-40CE-4535-BABC-D7E6B30D9C48](https://user-images.githubusercontent.com/6939365/115261038-df984800-a165-11eb-8423-42f4092292b8.png)
+
 
 
 ## 卫生间
@@ -108,11 +108,11 @@ aqara 吸顶灯:
 带灯光镜子:
 ![image](https://user-images.githubusercontent.com/6939365/115251247-f1c1b880-a15c-11eb-95af-6ffc93fb55a1.png)
 
-恒温燃气热水器:
+恒温燃气热水器:   
 ![image](https://user-images.githubusercontent.com/6939365/115251859-86c4b180-a15d-11eb-8ddc-8e3b5a0c0783.png)
 
 牙刷吹风机储物架:
-![image](https://user-images.githubusercontent.com/6939365/115256050-76163a80-a161-11eb-88c4-2facdf358388.png)
+![image](https://user-images.githubusercontent.com/6939365/115254843-529ec000-a160-11eb-8923-028b2ef9f623.png)
 
 
 ### 主卫
