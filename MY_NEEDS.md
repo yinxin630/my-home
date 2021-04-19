@@ -45,9 +45,19 @@ aqara 吸顶灯: <https://www.aqara.com/cn/productDetail/d3_2>
 
 ## 厨房
 
+可拉伸水龙头:
+![image](https://user-images.githubusercontent.com/6939365/115250674-61837380-a15c-11eb-88e0-261190764612.png)
+
+双洗菜盆:
+![image](https://user-images.githubusercontent.com/6939365/115250808-824bc900-a15c-11eb-9bcd-0661b6f46f88.png)
+
+
 ### 餐厅
 
 ## 卧室
+
+带靠背的床:
+![image](https://user-images.githubusercontent.com/6939365/115252644-3c900000-a15e-11eb-8118-75c1b859cc5c.png)
 
 ### 主卧
 
@@ -57,7 +67,19 @@ aqara 吸顶灯: <https://www.aqara.com/cn/productDetail/d3_2>
 
 ## 卫生间
 
+可拉伸水龙头:
+![image](https://user-images.githubusercontent.com/6939365/115250468-30a33e80-a15c-11eb-8c01-749abb07382b.png)
+
+带灯光镜子:
+![image](https://user-images.githubusercontent.com/6939365/115251247-f1c1b880-a15c-11eb-95af-6ffc93fb55a1.png)
+
+恒温燃气热水器:
+![image](https://user-images.githubusercontent.com/6939365/115251859-86c4b180-a15d-11eb-8ddc-8e3b5a0c0783.png)
+
 ### 主卫
+
 智能马桶盖, 智米, 注意内圈尺寸
+![image](https://user-images.githubusercontent.com/6939365/115252061-b5db2300-a15d-11eb-8e68-5986afd012c4.png)
+
 
 ### 次卫
