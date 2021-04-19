@@ -11,7 +11,7 @@ VR看房: <https://realsee.com/lianjia/ByOJrMWWgbXMlvV1/Qqk0a74Lqjmws9u6hqTa35jF
 厨卫用瓷砖, 其它用实木复合地板
 
 ![image](https://user-images.githubusercontent.com/6939365/115242999-0437f400-a155-11eb-8bb0-c869c84fadfc.png)
-![image](https://user-images.githubusercontent.com/6939365/115243174-377a8300-a155-11eb-80c5-38b56ec2a4bb.png)
+<img src="https://user-images.githubusercontent.com/6939365/115243174-377a8300-a155-11eb-80c5-38b56ec2a4bb.png" style="max-width:700px" />
 ![image](https://user-images.githubusercontent.com/6939365/115243350-6abd1200-a155-11eb-9efa-d32b1ad1aa71.png)
 
 地板种类和选购经验 <https://zhuanlan.zhihu.com/p/27610690>   
