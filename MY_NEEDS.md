@@ -57,9 +57,11 @@ aqara 吸顶灯:
 ![image](https://user-images.githubusercontent.com/6939365/115255692-1881ee00-a161-11eb-9c36-1bd772b49960.png)
 
 能躺俩人的沙发:
+![image](https://user-images.githubusercontent.com/6939365/115257780-0012d300-a163-11eb-83a0-390b6a9a60df.png)
 
 
 懒人躺椅:
+![image](https://user-images.githubusercontent.com/6939365/115257224-74994200-a162-11eb-89d0-bd0e62627296.png)
 
 
 ### 阳台
